@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/RyuTribal.github.io/static/css/main.52cf1dab.css",
+    "main.js": "/RyuTribal.github.io/static/js/main.3c729d54.js",
+    "static/media/ivan-img-right.png": "/RyuTribal.github.io/static/media/ivan-img-right.0820a2e292e7eebc0272.png",
+    "static/media/ivan-img-left.png": "/RyuTribal.github.io/static/media/ivan-img-left.116db607325fdc184fcc.png",
+    "static/media/fa-solid-900.svg": "/RyuTribal.github.io/static/media/fa-solid-900.b6f1e12b1a01ff95f064.svg",
+    "static/media/justvalue.PNG": "/RyuTribal.github.io/static/media/justvalue.80bcca23ad0c17549c95.PNG",
+    "static/media/fa-brands-400.svg": "/RyuTribal.github.io/static/media/fa-brands-400.8fab0f2ba5cdb9b5b48f.svg",
+    "static/media/itjobs.PNG": "/RyuTribal.github.io/static/media/itjobs.a667d3ec9ee8f6daec86.PNG",
+    "static/media/huddinge.png": "/RyuTribal.github.io/static/media/huddinge.dfecf35c384135b017cb.png",
+    "static/media/fa-solid-900.eot": "/RyuTribal.github.io/static/media/fa-solid-900.2f6dbd9f998fa1413ff7.eot",
+    "static/media/fa-solid-900.ttf": "/RyuTribal.github.io/static/media/fa-solid-900.9b4d14a5508e9cc4ca88.ttf",
+    "static/media/fa-regular-400.svg": "/RyuTribal.github.io/static/media/fa-regular-400.be3e8b3fa320d2772c19.svg",
+    "static/media/ivan.pdf": "/RyuTribal.github.io/static/media/ivan.f5457e13fc0fd0f29186.pdf",
+    "static/media/fa-brands-400.eot": "/RyuTribal.github.io/static/media/fa-brands-400.85917bf21118aa3f2e14.eot",
+    "static/media/fa-brands-400.ttf": "/RyuTribal.github.io/static/media/fa-brands-400.70150a2b3a50f84aff70.ttf",
+    "static/media/fa-solid-900.woff": "/RyuTribal.github.io/static/media/fa-solid-900.e4efd599b7afce2f7b21.woff",
+    "static/media/fa-brands-400.woff": "/RyuTribal.github.io/static/media/fa-brands-400.cac133c03011645ba509.woff",
+    "static/media/fa-solid-900.woff2": "/RyuTribal.github.io/static/media/fa-solid-900.acc6b6bf6c3214aeb3ef.woff2",
+    "static/media/fa-brands-400.woff2": "/RyuTribal.github.io/static/media/fa-brands-400.dd7467859e54d3b9dae6.woff2",
+    "static/media/blender.png": "/RyuTribal.github.io/static/media/blender.b8035d3b2e762e66dc4a.png",
+    "static/media/fa-regular-400.eot": "/RyuTribal.github.io/static/media/fa-regular-400.6810be1da91e3f344935.eot",
+    "static/media/fa-regular-400.ttf": "/RyuTribal.github.io/static/media/fa-regular-400.a3b4cd30799e10f5fbc2.ttf",
+    "static/media/notey.PNG": "/RyuTribal.github.io/static/media/notey.ea2b04ec3bfd7865a4ab.PNG",
+    "static/media/baron_neue-webfont.woff": "/RyuTribal.github.io/static/media/baron_neue-webfont.c6eed04820691756231d.woff",
+    "static/media/unreal.png": "/RyuTribal.github.io/static/media/unreal.746d2143f50c90ce185c.png",
+    "static/media/fa-regular-400.woff": "/RyuTribal.github.io/static/media/fa-regular-400.8a7914c9eb0f44af5d33.woff",
+    "static/media/react.png": "/RyuTribal.github.io/static/media/react.f92be4d58adbbba77258.png",
+    "static/media/fa-regular-400.woff2": "/RyuTribal.github.io/static/media/fa-regular-400.a3f7358b4bd2b708c04d.woff2",
+    "static/media/node.png": "/RyuTribal.github.io/static/media/node.8feafff3e1d259e3ed81.png",
+    "index.html": "/RyuTribal.github.io/index.html",
+    "main.52cf1dab.css.map": "/RyuTribal.github.io/static/css/main.52cf1dab.css.map",
+    "main.3c729d54.js.map": "/RyuTribal.github.io/static/js/main.3c729d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52cf1dab.css",
+    "static/js/main.3c729d54.js"
+  ]
+}
